@@ -8,3 +8,5 @@ artifacts/
 search_cache/
 drafts/
 demo-artifacts/videos/
+data/
+.thunder_gateway_token
